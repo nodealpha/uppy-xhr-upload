@@ -24,8 +24,8 @@
     "url": "git+https://github.com/transloadit/uppy.git"
   },
   "dependencies": {
-    "@uppy/companion-client": "file:../companion-client",
-    "@uppy/utils": "file:../utils",
+    "@uppy/companion-client": "1.9.0",
+    "@uppy/utils": "3.5.0",
     "cuid": "^2.1.1"
   },
   "devDependencies": {
